@@ -41,4 +41,4 @@ comments: false
 * Obtained 3 B's at A-level in Biology, Maths and Physics
 * Grade B, AS-level in Drama and Theatre Studies
 
-*_More information available on request_*
+_For more information please [contact me](mailto:{{ site.email }}?subject=Education%20Information)_
