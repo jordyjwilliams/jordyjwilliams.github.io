@@ -27,7 +27,7 @@ comments: false
 ### Batchelor's Project
 * Individual project, won the [IMechE's Best Project Certificate](https://www.imeche.org/careers-education/scholarships-and-awards/awards-a-c/best-project-certificate) 
 * `Signal Processing of acoustic emissions to identify Osteoarthritis in the knee joint`
-* More detail of this can be seen in the image above. This poster formed part of a student confrence where my work was formally precented.
+* More detail of this can be seen in the image above. This poster formed part of a student conference where my work was formally presented.
 
 ### Master's Year Project || `Pearable`
 * Group design project, with 6 other cross-disciplinary engineers
