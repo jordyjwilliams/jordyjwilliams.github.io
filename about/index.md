@@ -15,7 +15,7 @@ I have a passion for hearing/digital health, as well as professional audio, my m
 
 This is further showcased by my volunteer work with [Action on Hearing Loss](https://www.actiononhearingloss.org.uk/) and my role as `Charity Officer` for the [Southampton University Sign Language Society](https://www.facebook.com/sotonsignsoc/) whilst at University.  
 
-I am also passionate about Animal and Environmental Welfare. I volunteer at [Samtpfoten Neukölln](https://www.samtpfoten-neukoelln.com/) Cat Home in Berlin.  
+I am also passionate about many social issues. In current company I am a lead member of the `Diversity and Inclusion` committee. Through this role I have also aimed to make our company have a more pro-active stance on social issues that surround our industry.
 
 Having grown up in many different countries as a child (🇩🇪🇳🇱🇦🇺🇴🇲🇬🇧). I have developed a love for travel. Whether it be for a vacation or to relocate and live somewhere new, I am excited by the prospect of learning more about new cultures.  
 
