@@ -17,12 +17,35 @@ layout: compress
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
                     <h1>{{ page.title }}</h1>
-                    {% if page.start_date %}
-                    <h4>{{ page.start_date | date_to_string }} - {{ page.end_date | date_to_string }}</h4>
+                    {% if page.start_date  %}
+                        <!-- Get distance between start and end dates, convert to best unit -->
+                        {%   assign start = page.start_date | date: '%s'  %}
+                        {%   assign end = page.end_date | date: '%s'  %}
+                        {%   assign seconds_worked = end | minus: start | date:"%s" %}
+                        {%   assign hours_worked = seconds_worked | divided_by: 60 | divided_by: 60 %}
+                        {%   assign days_worked = hours_worked | divided_by: 24  %}
+                        {%   assign months_worked = days_worked | divided_by: 30  %}
+                        {%   assign years_worked = months_worked | divided_by: 12  %}
+                    <!-- divided_by rounds down, so shortest is ~1 month -->
+                    {% if months_worked < 1 %}
+                        {%   assign length_worked = 1 %}
+                        {%   assign units_worked = "Month" %}
+                    <!-- if worked over 1 year, show as years -->
+                    {% elsif months_worked > 12 %}
+                        {%   assign length_worked = years_worked %}
+                        {%   assign units_worked = "Year(s)" %}
+                    {% else %}
+                        {%   assign length_worked = months_worked %}
+                        {%   assign units_worked = "Month(s)" %}
+                    {% endif %}
+
+                    <h4>{{ page.start_date | date_to_string }} - {{ page.end_date | date_to_string }}: ~{{length_worked}} {{units_worked}}</h4>
                     {% elsif page.work_month %}
                     <h4>{{ page.work_month }}</h4>
                     {% else %}
-                    <h4>{{ page.date | date_to_string }}</h4>
+                    <!-- {%   assign today = site.time | date: '%s'      %} Could use today -->
+                    <h4>{{ page.date | date_to_string }} - Present </h4>
+                    <!-- assumes when only date is -> present -->
                     {% endif %}
                     {% if site.reading_time %}
                     <p class="reading-time">
