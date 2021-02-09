@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Mimi Hearing Technologies"
-date: 2018-05-22
-excerpt: "01/10/2018 - Present"
+start_date: "01-10-2018 04:00:00"
+end_date: "28-02-2021 04:00:00"
+excerpt: "01/10/2018 - 28/02/2021: (2.5 years)"
 image: "/assets/img/logos/mimi.png"
 comments: false
 ---

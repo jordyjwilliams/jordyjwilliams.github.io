@@ -3,7 +3,7 @@ layout: post
 title: "Cole Jarman"
 start_date: 2016-06-13
 end_date: 2016-08-12
-excerpt: "13/06/2016 - 13/08/2016"
+excerpt: "13/06/2016 - 13/08/2016: (9 weeks)"
 image: "/assets/img/logos/cole_jarman.png"
 comments: false
 ---

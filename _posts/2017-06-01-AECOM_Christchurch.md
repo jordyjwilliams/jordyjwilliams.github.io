@@ -3,7 +3,7 @@ layout: post
 title:  "AECOM, Christchurch, NZ"
 start_date:   "2017/06/01"
 end_date:  "2017/08/14"
-excerpt: "01/06/2017 - 14/08/2017"
+excerpt: "01/06/2017 - 14/08/2017: (12 weeks)"
 image: "/assets/img/logos/aecom.png"
 ---
 

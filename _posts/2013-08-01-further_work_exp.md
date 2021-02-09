@@ -2,7 +2,7 @@
 layout: post
 title:  "Further Work Experience"
 work_month: "Pre August 2013"
-excerpt: "Pre August 2013"
+excerpt: "Pre August 2013 - (Various lengths)"
 comments: false
 ---
 

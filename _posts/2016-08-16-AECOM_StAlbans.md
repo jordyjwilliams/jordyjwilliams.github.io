@@ -3,7 +3,7 @@ layout: post
 title:  "AECOM, St Albans, UK"
 start_date:   "2016/08/16"
 end_date:  "2016/09/09"
-excerpt: "15/08/2016 - 09/09/2016"
+excerpt: "15/08/2016 - 09/09/2016: (4 weeks)"
 image: "/assets/img/logos/aecom.png"
 ---
 
