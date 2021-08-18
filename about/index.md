@@ -6,7 +6,7 @@ comments: false
 ---
 
 ## Overview
-Hi, I'm Jordy, a recently graduated Acoustical Engineer from the UK. I'm currently working for a hearing technology startup based in Berlin. As well as this I am a volunteer teacher of an `Introduction to Python` programme at [ReDI school](https://www.redi-school.org/berlin) (see more below).
+Hi, I'm Jordy, an Acoustical Engineer from the UK. I'm currently working as a freelance Audio (Research) Engineer and Python Develoer. Primirally I work for a hearing technology startup based in Berlin. Previousy I have been a volunteer teacher of an `Introduction to Python` programme at [ReDI school](https://www.redi-school.org/berlin) (see more below).
 
 If you'd like to get in touch feel free to contact me on any of the methods given here.
 
@@ -15,11 +15,11 @@ I have a passion for hearing/digital health, as well as professional audio, my m
 
 This is further showcased by my volunteer work with [Action on Hearing Loss](https://www.actiononhearingloss.org.uk/) and my role as `Charity Officer` for the [Southampton University Sign Language Society](https://www.facebook.com/sotonsignsoc/) whilst at University.
 
-I am also passionate about many social issues. In current company I am a lead member of the `Diversity and Inclusion` committee. Through this role I have also aimed to make our company have a more pro-active stance on social issues that surround our industry.
+I am also passionate about many social issues. Whilst working at Mimi Hearing Technologies I was a lead member of the `Diversity and Inclusion` committee. Through this role I have also aimed to make our company have a more pro-active stance on social issues that surround our industry.
 
 Having grown up in many different countries as a child (🇩🇪🇳🇱🇦🇺🇴🇲🇬🇧). I have developed a love for travel. Whether it be for a vacation or to relocate and live somewhere new, I am excited by the prospect of learning more about new cultures.
 
-I also volunteer as a teacher on the [Intro to Python](https://www.redi-school.org/berlin-career-program) course at [ReDI school](https://www.redi-school.org/berlin) (of design interaction). This is a not-for-profit digital school whose [mission](https://www.redi-school.org/mission) is to use technology to break down barriers and connect the leaders of tomorrow. Primarily its courses are focused towards individuals who are new to the country they reside in. Typically, a lot of the students are refugees and are from non-traditional educational backgrounds. Teaching programmes with ReDI has been an amazingly rewarding process and I have definitely learnt a lot along the way. 
+I loved volunteering teaching on the [Intro to Python](https://www.redi-school.org/berlin-career-program) course at [ReDI school](https://www.redi-school.org/berlin) (of design interaction). This is a not-for-profit digital school whose [mission](https://www.redi-school.org/mission) is to use technology to break down barriers and connect the leaders of tomorrow. Primarily its courses are focused towards individuals who are new to the country they reside in. Typically, a lot of the students are refugees and are from non-traditional educational backgrounds. Teaching programmes with ReDI has been an amazingly rewarding process and I have definitely learnt a lot along the way. 
 
 ## What else do I like?
 * 🛥️--<🏄 Wakeboarding 🛥️--<🏄
