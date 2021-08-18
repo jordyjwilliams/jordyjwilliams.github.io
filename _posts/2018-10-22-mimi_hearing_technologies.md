@@ -10,6 +10,8 @@ comments: false
 
 Currently working for a Hearing Technology startup company as an Audio Engineer.
 
+Until February of 2021 I was working in a fulltime capacaty however sinse then I have been working as a freelance Audio Engineer / Python Developer. Mimi Hearing Technologies are my main client.
+
 Our core tech is a medically certified hearing test, allowing for a scientifically informed and biologically inspired audio personalization solution. Our processing is dynamic, complex and  offers a truly personal solution. All of this is rolled into a SDK with the aim of being [integrated easily](https://integrate.mimi.io/) by [external partners](https://www.mimi.io/partners). Our processing is also capable of running on a multitude of common [industry standard chipsets and devices](https://integrate.mimi.io/solutions/select-platform).
 
 My role as an Audio Engineer transitions the product and research teams, primarily concerning the sonic experience given to the end user of our technology (their personalized sound).
