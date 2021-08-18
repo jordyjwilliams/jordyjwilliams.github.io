@@ -6,7 +6,7 @@ comments: false
 ---
 
 ## Overview
-Hi, I'm Jordy, an Acoustical Engineer from the UK. I'm currently working as a freelance Audio (Research) Engineer and Python Develoer. Primirally I work for a hearing technology startup based in Berlin. Previousy I have been a volunteer teacher of an `Introduction to Python` programme at [ReDI school](https://www.redi-school.org/berlin) (see more below).
+Hi, I'm Jordy, an Acoustical Engineer from the UK. I'm currently working as a freelance Audio (Research) Engineer and Python Develoer. Primirally I work for a [hearing technology startup]({{site.url}}/mimi_hearing_technologies.html) based in Berlin. Previousy I have been a volunteer teacher of an `Introduction to Python` programme at [ReDI school](https://www.redi-school.org/berlin) (see more below).
 
 If you'd like to get in touch feel free to contact me on any of the methods given here.
 
