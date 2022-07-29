@@ -8,7 +8,7 @@ comments: false
 ## Overview
 Hi, I'm Jordy, an Acoustical Engineer from the UK. I'm currently working as a freelance Audio (Research) Engineer and Python Develoer. Primirally I work for a [hearing technology startup]({{site.url}}/mimi_hearing_technologies) based in Berlin. Previousy I have been a volunteer teacher of an `Introduction to Python` programme at [ReDI school](https://www.redi-school.org/berlin) (see more below).
 
-I also have a passion for SCUBA diving, and am a PADI Open Water SCUBA Instructor (OWSI). I intend to work professionally in both the Diving and technology industries, side by side. I have positive experience of this in the past.
+I also have a passion for SCUBA diving, and am a `PADI Open Water SCUBA Instructor (OWSI)`. I intend to work professionally in both the Diving and technology industries, side by side. I have positive experience of this in the past.
 
 If you'd like to get in touch feel free to contact me on any of the methods given here.
 
@@ -25,7 +25,7 @@ I loved volunteering teaching on the [Intro to Python](https://www.redi-school.o
 
 ## What else do I like?
 * 🐠 SCUBA Diving 🐠
-    * PADI Open Water SCUBA Instructor (OWSI).
+    * `PADI Open Water SCUBA Instructor (OWSI)`. `PADI Number:` **521989**.
     * Experience working with [Divers Den](https://www.diversden.com.au/), Cairns, GBR, AU.
 * 🛥️--<🏄 Wakeboarding 🛥️--<🏄
 I was the [SUWake (Southampton University Wakeboarding Society):](https://suwake.susu.org)  
