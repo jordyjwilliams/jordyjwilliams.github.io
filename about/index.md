@@ -8,6 +8,8 @@ comments: false
 ## Overview
 Hi, I'm Jordy, an Acoustical Engineer from the UK. I'm currently working as a freelance Audio (Research) Engineer and Python Develoer. Primirally I work for a [hearing technology startup]({{site.url}}/mimi_hearing_technologies) based in Berlin. Previousy I have been a volunteer teacher of an `Introduction to Python` programme at [ReDI school](https://www.redi-school.org/berlin) (see more below).
 
+I also have a passion for SCUBA diving, and am a PADI Open Water SCUBA Instructor (OWSI). I intend to work professionally in both the Diving and technology industries, side by side. I have positive experience of this in the past.
+
 If you'd like to get in touch feel free to contact me on any of the methods given here.
 
 ## What drives me?
@@ -22,6 +24,9 @@ Having grown up in many different countries as a child (🇩🇪🇳🇱🇦🇺
 I loved volunteering teaching on the [Intro to Python](https://www.redi-school.org/berlin-career-program) course at [ReDI school](https://www.redi-school.org/berlin) (of design interaction). This is a not-for-profit digital school whose [mission](https://www.redi-school.org/mission) is to use technology to break down barriers and connect the leaders of tomorrow. Primarily its courses are focused towards individuals who are new to the country they reside in. Typically, a lot of the students are refugees and are from non-traditional educational backgrounds. Teaching programmes with ReDI has been an amazingly rewarding process and I have definitely learnt a lot along the way. 
 
 ## What else do I like?
+* 🐠 SCUBA Diving 🐠
+    * PADI Open Water SCUBA Instructor (OWSI).
+    * Experience working with [Divers Den](https://www.diversden.com.au/), Cairns, GBR, AU.
 * 🛥️--<🏄 Wakeboarding 🛥️--<🏄
 I was the [SUWake (Southampton University Wakeboarding Society):](https://suwake.susu.org)  
     * `Beginner Secretary` - 16/17
@@ -32,8 +37,6 @@ I was the [SUWake (Southampton University Wakeboarding Society):](https://suwake
     * ABRSM Grade 5, Alto Saxophone
 * 🎭 Drama 🎭
     * LAMBDA Grade 6, Acting
-* 🐠 SCUBA Diving 🐠
-    * PADI Certified Advanced Open Water and Rescue diver.
 * 🏂 Snowboarding 🏂
 * 📸 🎞️ Analogue photography 📸 🎞️
 
