@@ -6,11 +6,13 @@ comments: false
 ---
 
 ## Overview
-Hi, I'm Jordy, an Acoustical Engineer from the UK. I'm currently working as a freelance Audio (Research) Engineer and Python Developer. Primally I work for a [hearing technology startup]({{site.url}}/mimi_hearing_technologies) based in Berlin. Previously I have been a volunteer teacher of an `Introduction to Python` programme at [ReDI school](https://www.redi-school.org/berlin) (see more below).
+Hi, I'm Jordy, an Acoustical Engineer originally from the UK. I am currently based in Australia where I am traveling and working intermittently on projects as a freelance Audio (Research) Engineer and Python Developer.
+
+My main client has been [Mimi Hearing Technologies]({{site.url}}/mimi_hearing_technologies), a company where I previously worked full-time. They are a hearing-healthcare based startup in Berlin, DE. Previously I have been a volunteer teacher of an `Introduction to Python` programme at [ReDI school](https://www.redi-school.org/berlin) (see more below).
 
 I also have a passion for SCUBA diving, and am a `PADI Open Water SCUBA Instructor (OWSI)`. I intend to work professionally in both the Diving and technology industries, side by side. I have positive experience of this in the past.
 
-If you'd like to get in touch feel free to contact me on any of the methods given here.
+If you'd like to get in touch feel free to contact me on any of the methods given here. I am always open to new opportunities and experiences.
 
 ## What drives me?
 I have a passion for hearing/digital health, as well as professional audio, my main aim is to try and use my formal knowledge of acoustics, audio and engineering in a way that can benefit people.

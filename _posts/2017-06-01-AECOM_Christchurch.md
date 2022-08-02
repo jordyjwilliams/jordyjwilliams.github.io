@@ -7,7 +7,7 @@ excerpt: "01/06/2017 - 14/08/2017: (12 weeks)"
 image: "/assets/img/logos/aecom.png"
 ---
 
-Following my previous work with AECOM in the UK, I given the opportunity to intern in Christchurch, New Zealand.
+Following my previous work with [AECOM](https://aecom.com/) in the UK, I given the opportunity to intern in Christchurch, New Zealand.
 
 * Gained a different view on acoustic consultancy (due to the differing regulations between NZ and the UK).
 * Noise and annoyance subjective survey design and data analysis.

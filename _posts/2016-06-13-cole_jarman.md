@@ -8,7 +8,7 @@ image: "/assets/img/logos/cole_jarman.png"
 comments: false
 ---
 
-9 week placement at Cole Jarman. This was my first experience working in Acoustic Consultancy, was a far smaller company and different experience to AECOM. Here I worked in the following areas:
+9 week placement at Cole Jarman, now [RSK Acoustics](https://www.rskacoustics.com/). This was my first experience working in Acoustic Consultancy, was a far smaller company and different experience to AECOM. Here I worked in the following areas:
 * Noise and vibration survey design, setup, note taking, site photography and collection.
     * Unattended, attended and night time surveys.
     * Post survey reports
