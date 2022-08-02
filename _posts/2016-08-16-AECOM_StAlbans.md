@@ -7,8 +7,7 @@ excerpt: "15/08/2016 - 09/09/2016: (4 weeks)"
 image: "/assets/img/logos/aecom.png"
 ---
 
-
-* 4 week placement allowed me to further my knowledge of Acoustic Consultancy.
+* 4 week placement with [AECOM](https://aecom.com/) allowed me to further my knowledge of Acoustic Consultancy.
 * Was specializing in Building Acoustics
 * Had a large range of national and international clients.
 * Unattended and Attended Noise surveys
