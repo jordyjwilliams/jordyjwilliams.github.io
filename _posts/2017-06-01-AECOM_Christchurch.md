@@ -9,7 +9,7 @@ image: "/assets/img/logos/aecom.png"
 
 Following my previous work with AECOM in the UK, I given the opportunity to intern in Christchurch, New Zealand.
 
-* Gained a different view on acoustic consultancy (due to the differing regulations between NZ and the UK). 
+* Gained a different view on acoustic consultancy (due to the differing regulations between NZ and the UK).
 * Noise and annoyance subjective survey design and data analysis.
    * Processing and trend identification
    * Large data set manipulation
