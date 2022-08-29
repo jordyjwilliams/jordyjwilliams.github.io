@@ -44,8 +44,11 @@ layout: compress
                          {% if site.resume %}
                          <a class="btn zoombtn" href="{{ site.resume }} ">
                          Résumé
-                         </a>
-                         {% endif %}
+                         </a>{% endif %}
+                         {% if site.fiverr %}
+                         <a class="btn zoombtn" href="https://fiverr.com/{{ site.fiverr }}">
+                         Fiverr
+                         </a>{% endif %}
                  </h3>
             </div>
         </div>
