@@ -1,12 +1,15 @@
 ---
 layout: post
 title:  "Further Work Experience"
-work_month: "Pre August 2013"
-excerpt: "Pre August 2013 - (Various lengths)"
+work_month: "Prior to December 2014"
+excerpt: "Prior to December 2014 - (Various lengths)"
 comments: false
 ---
 
-As well as all work described in further detail I have also undertaken work experience (mostly one or two week periods) for the following companies:
+In addition to the employment/internships described [here]({{ site.url }}/employment), I completed the following shorter (2-3 week) internships whilst still in school:
+
+* December 2013
+    * [Sky](https://careers.sky.com/earlycareers/summerinternships/): shadowing a software engineering scrum team.
 * August 2013
     * [Shure Distribution](https://www.shure.com/en-GB/about-us)
 * July 2012
@@ -20,4 +23,4 @@ As well as all work described in further detail I have also undertaken work expe
 * June 2011
     * [Jack and Glide FM](https://www.jackfm.co.uk/) Radio Station – Oxford
 
-_Further information available on request_
+_Further information available [on request](mailto:{{ site.email }}?subject=Reference%20Request)_
