@@ -1,7 +1,12 @@
 # Site
 title:              Jordy Williams
-bio:                '🔈 Audio/Acoustical Engineer 🔈<br>🐠🤿 PADI Open Water SCUBA Instructor 🤿🐠</br><code>PADI Number: 521989</code>'
-description:        "📍<br>AEST ⏰<br>Australia 🇦🇺</br></br><br>Acoustical Engineering, MEng</br><br>First Class</br><br>University of Southampton.</br>"
+bio:                '
+<br><code>Acoustical Engineering, MEng</code></br>
+🔈 Acoustical/Audio Research Engineer 🔈
+<br>💻 Freelance developer 💻</br>
+🎓 Web Development Bootcamp Educator 🎓
+<br>🐠🤿 PADI SCUBA Instructor: <code>#521989</code> 🤿🐠</br>'
+description:        "📍: AU, AEST 🇦🇺⏰"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/jordy.png'

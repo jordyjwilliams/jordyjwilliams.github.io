@@ -7,6 +7,7 @@ excerpt: "01/10/2018 - 28/02/2021: (2.5 years)"
 image: "/assets/img/logos/mimi.png"
 comments: false
 ---
+
 My most recent full time role was for Mimi Hearing Technologies as an Audio Research Engineer / Python Developer. Since February 2021 I have been freelancing and working in the same role in a supporting capacity.
 
 Our core tech is a medically certified hearing test, allowing for a scientifically informed and biologically inspired audio personalization solution. Our processing is dynamic, complex and  offers a truly personal solution. All of this is rolled into a SDK with the aim of being [integrated easily](https://integrate.mimi.io/) by [external partners](https://www.mimi.io/partners). Our processing is also capable of running on a multitude of common [industry standard chipsets and devices](https://integrate.mimi.io/solutions/implement-mimi).

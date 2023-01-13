@@ -16,8 +16,15 @@ layout: compress
         <div class="wrapper animated fadeIn">
             <div class="content">
                 <div class="post-title {% if page.feature %} feature {% endif %}">
+                    <!-- Note: when showing the current role set end_date to "" in post -->
+                    <!-- only one month worked -->
                     <h1>{{ page.title }}</h1>
-                    {% if page.start_date  %}
+                    {% if page.work_month %}
+                        <h4>{{ page.work_month }}</h4>
+                    {% elsif page.start_date and page.end_date == "" %}
+                        <h4>{{ page.start_date | date_to_string }} - current </h4>
+                    <!-- when a page.start_date is present but page.end_date is empty -->
+                    {% elsif page.start_date != "" and page.end_date != "" %}
                         <!-- Get distance between start and end dates, convert to best unit -->
                         {%   assign start = page.start_date | date: '%s'  %}
                         {%   assign end = page.end_date | date: '%s'  %}
@@ -26,39 +33,29 @@ layout: compress
                         {%   assign days_worked = hours_worked | divided_by: 24  %}
                         {%   assign months_worked = days_worked | divided_by: 30  %}
                         {%   assign years_worked = months_worked | divided_by: 12  %}
-                    <!-- divided_by rounds down, so shortest is ~1 month -->
-                    {% if months_worked < 1 %}
-                        {%   assign length_worked = 1 %}
-                        {%   assign units_worked = "Month" %}
-                    <!-- if worked over 1 year, show as years -->
-                    {% elsif months_worked > 12 %}
-                        {%   assign length_worked = years_worked %}
-                        {%   assign units_worked = "Year(s)" %}
+                        
+                    {% if years_worked >= 1 %}
+                        <h4>{{ page.start_date | date_to_string }} - {{ page.end_date | date_to_string }}: ~{{years_worked}} Year(s) {{months_worked | modulo: 12}} Month(s)</h4>
                     {% else %}
-                        {%   assign length_worked = months_worked %}
-                        {%   assign units_worked = "Month(s)" %}
+                        {% if months_worked == 0 %}
+                            {% assign months_worked = 1 %}
+                        {% endif %}
+                        <h4>{{ page.start_date | date_to_string }} - {{ page.end_date | date_to_string }}: ~{{months_worked}} Month(s)</h4>
                     {% endif %}
-
-                    <h4>{{ page.start_date | date_to_string }} - {{ page.end_date | date_to_string }}: ~{{length_worked}} {{units_worked}}</h4>
-                    {% elsif page.work_month %}
-                    <h4>{{ page.work_month }}</h4>
-                    {% else %}
-                    <!-- {%   assign today = site.time | date: '%s'      %} Could use today -->
-                    <h4>{{ page.date | date_to_string }} - Present </h4>
-                    <!-- assumes when only date is -> present -->
                     {% endif %}
+                    
                     {% if site.reading_time %}
                     <p class="reading-time">
-                      <i class="fa fa-clock-o"></i>
-                      {% include read-time.html %}
+                        <i class="fa fa-clock-o"></i>
+                        {% include read-time.html %}
                     </p><!-- /.entry-reading-time -->
                     {% endif %}
                     {% if page.project %}
                     <a class="btn zoombtn" href="{{site.url}}/projects/">
-                    {% else %}
-                    <a class="btn zoombtn" href="{{site.url}}/employment/">
-                    {% endif %}
-                        <i class="fa fa-chevron-left"></i>
+                        {% else %}
+                        <a class="btn zoombtn" href="{{site.url}}/employment/">
+                            {% endif %}
+                            <i class="fa fa-chevron-left"></i>
                     </a>
                 </div>
                 {{ content }}
