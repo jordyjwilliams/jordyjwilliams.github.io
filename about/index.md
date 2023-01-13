@@ -6,11 +6,11 @@ comments: false
 ---
 
 ## Overview
-Hi, I'm Jordy, an Acoustical Engineer originally from the UK. I am currently based in Australia where I am traveling and working intermittently on projects as a freelance audio (research) engineer and software developer. For more infromation on my development skillset please see my [resume]({{site.resume}}).
+Hi, I'm Jordy, an Acoustical Engineer originally from the UK. I am currently based in Australia where I am traveling and working intermittently on projects as a freelance audio (research) engineer and software developer. For more information on my development skillset please see my [resume]({{site.resume}}).
 
-Currently I am working part-time as an [academic assistant at CoderAcademy](TODO:linkToCAWorkpage) on their [WebDev Bootcamp](TODO:linktoCoderacademy) course. It's been awesome to further my teaching knowledge by inspiring a new generation of developers.
+Currently I am working part-time as an [academic assistant at CoderAcademy]({{site.url}}/coderAcademy/) on their [WebDev Bootcamp](https://www.coderacademy.edu.au/web-development-bootcamp) course. It's been awesome to further my teaching knowledge by inspiring a new generation of developers.
 
-My main freelance client has been [Mimi Hearing Technologies]({{site.url}}/mimi_hearing_technologies), a company where I previously worked full-time. They are a hearing-healthcare based startup in Berlin, DE. Whilst living in Berlin and [working for Mimi]({{site.url}}/mimi_hearing_technologies) I undertook volunteer work as a teacher of `Introduction to Python` program at [ReDI school](https://www.redi-school.org/berlin) (see more below).
+My main freelance client has been [Mimi Hearing Technologies]({{site.url}}/mimi_hearing_technologies), a company where I previously worked full-time. They are a hearing health based startup in Berlin, DE. Whilst living in Berlin and [working for Mimi]({{site.url}}/mimi_hearing_technologies) I undertook volunteer work as a teacher of `Introduction to Python` program at [ReDI school](https://www.redi-school.org/berlin) (see more below).
 
 I also have a passion for SCUBA diving, and am a `PADI Open Water SCUBA Instructor (OWSI)`. I intend to work professionally in both the technology and diving industries, with a higher weighting towards the technology industry. I have a positive experience of this in the past.
 
