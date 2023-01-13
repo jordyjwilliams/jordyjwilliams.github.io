@@ -1,16 +1,12 @@
 # Site
-title:              Jordy Williams<br><code>Acoustical Engineering, MEng</code></br>
+title:              Jordy Williams
 bio:                '
+<br><code>Acoustical Engineering, MEng</code></br>
 🔈 Acoustical/Audio Research Engineer 🔈
 <br>💻 Freelance developer 💻</br>
 🎓 Web Development Bootcamp Educator 🎓
 <br>🐠🤿 PADI SCUBA Instructor: <code>#521989</code> 🤿🐠</br>'
-description:        "
-📍
-<br>Australia 🇦🇺<br>AEST ⏰</br></br>
-<br>Acoustical Engineering, MEng</br>
-<br>First Class</br>
-<br>University of Southamptonm UK.</br>"
+description:        "📍: AU, AEST 🇦🇺⏰"
 reading_time:       false
 words_per_minute:   200
 logo:               'assets/img/jordy.png'
