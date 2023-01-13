@@ -23,7 +23,7 @@ layout: compress
                         <h4>{{ page.work_month }}</h4>
                     {% elsif page.start_date and page.end_date == "" %}
                         <h4>{{ page.start_date | date_to_string }} - current </h4>
-                    <!-- when a page.date is present but others are not -->
+                    <!-- when a page.start_date is present but page.end_date is empty -->
                     {% elsif page.start_date != "" and page.end_date != "" %}
                         <!-- Get distance between start and end dates, convert to best unit -->
                         {%   assign start = page.start_date | date: '%s'  %}
