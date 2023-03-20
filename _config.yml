@@ -13,7 +13,9 @@ logo:               'assets/img/jordy.png'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_GB
-# url:                https://taylantatli.github.io/Moon
+url:                https://jordyjwilliams.github.io/
+baseurl:            /
+
 
 # Jekyll
 permalink:          /:title/
@@ -68,7 +70,6 @@ fiverr:             jordyjwilliams
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-
 # Plugins
 plugins:
   - jekyll-mentions
