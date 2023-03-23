@@ -6,9 +6,9 @@ comments: false
 ---
 
 ## Overview
-Hi, I'm Jordy, an Acoustical Engineer originally from the UK. I am currently based in Australia where I am traveling and working intermittently on projects as a freelance audio (research) engineer and software developer. For more information on my development skillset please see my [resume]({{site.resume}}).
+Hi, I'm Jordy, an Acoustical Engineer and Audio Research Engineer originally from the UK. I am currently based in Melbourne, Australia where I am working as an Audio Engineer and Software Developer for [`daisee`](https://www.daisee.com/). For more information on my development skillset please see my [resume]({{site.resume}}).
 
-Currently I am working part-time as an [academic assistant at CoderAcademy]({{site.url}}/coderAcademy/) on their [WebDev Bootcamp](https://www.coderacademy.edu.au/web-development-bootcamp) course. It's been awesome to further my teaching knowledge by inspiring a new generation of developers.
+Previously, I worked part-time as an [academic assistant at CoderAcademy]({{site.url}}/coderAcademy/) on their [WebDev Bootcamp](https://www.coderacademy.edu.au/web-development-bootcamp) course. It was an experience to further my teaching knowledge by inspiring a new generation of developers.
 
 My main freelance client has been [Mimi Hearing Technologies]({{site.url}}/mimi_hearing_technologies), a company where I previously worked full-time. They are a hearing health based startup in Berlin, DE. Whilst living in Berlin and [working for Mimi]({{site.url}}/mimi_hearing_technologies) I undertook volunteer work as a teacher of `Introduction to Python` program at [ReDI school](https://www.redi-school.org/berlin) (see more below).
 
