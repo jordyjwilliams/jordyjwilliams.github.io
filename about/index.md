@@ -6,7 +6,9 @@ comments: false
 ---
 
 ## Overview
-Hi, I'm Jordy, an Acoustical Engineer and Audio Research Engineer originally from the UK. I am currently based in Melbourne, Australia where I am working as an Audio Engineer and Software Developer for [`daisee`](https://www.daisee.com/). For more information on my development skillset please see my [resume]({{site.resume}}).
+Hi, I'm Jordy, an Acoustical Engineer and Audio Research Engineer originally from the UK. I am currently based in Melbourne, Australia where I am working as a Senior Software Developer for [`daisee`](https://www.daisee.com/). For more information on my development skillset please see my [resume]({{site.resume}}).
+
+Currently at `daisee` I am working actively with the `AWS` Cloud Infrastructure technologies in order to better streamline and standardize the codebase used.
 
 Previously, I worked part-time as an [academic assistant at CoderAcademy]({{site.url}}/coderAcademy/) on their [WebDev Bootcamp](https://www.coderacademy.edu.au/web-development-bootcamp) course. It was an experience to further my teaching knowledge by inspiring a new generation of developers.
 
