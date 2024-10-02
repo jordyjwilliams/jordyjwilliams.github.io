@@ -2,8 +2,8 @@
 layout: post
 title: "Coder Academy"
 start_date: "2022-10-13"
-end_date: ""
-excerpt: "13/10/2022 - current"
+end_date: "2023-02-28"
+excerpt: "13/10/2022 - 28/02/2023"
 image: "/assets/img/logos/coderAcademy.png"
 comments: false
 ---
