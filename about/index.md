@@ -23,7 +23,18 @@ I have a passion for hearing/digital health, as well as professional audio, my m
 
 This is further showcased by my volunteer work with [Action on Hearing Loss](https://www.actiononhearingloss.org.uk/) and my role as `Charity Officer` for the [Southampton University Sign Language Society](https://www.facebook.com/sotonsignsoc/) whilst at University.
 
-I am also passionate about many social issues. Whilst working at Mimi Hearing Technologies I was a lead member of the `Diversity and Inclusion` committee. Through this role I have also aimed to make our company have a more pro-active stance on social issues that surround our industry.
+In my free time in Melbourne, I volunteer with various different community and charitable organizations.
+
+* [Reaching out in the Inner West](https://reachingoutintheinnerwestofmelbourne.com.au/): Volunteer weekly supplying food, bedding, clothing
+etc to ~500+ in need individuals.
+* [Music in Exile](https://musicinexile.com.au/): Volunteer at various events for a not for profit record label. Working
+with artists from culturally and linguistically diverse backgrounds.
+    * Music in Exile is a not-for-profit record label and artist services organisation aimed at increasing access to resources and building professional networks for artists from culturally and linguistically diverse backgrounds working in the music industry.
+    * Artists retain full ownership. More about Music in Exile can be [found on their website](https://musicinexile.com.au/)
+* [Welcome Merchant](https://welcomemerchant.com/): Volunteer at food pop-ups and events to help to champion and support businesses from those in under-represented and marginalized communities.
+    * Welcome Merchant's mission is: `to champion the voices of entrepreneurs & artists who identify as a refugee or as a person seeking asylum in Australia`.
+* Mimi Hearing Technologies: leading member of the `Diversity and Inclusion` committee.
+    * Through this role I have also aimed to make Mimi have a more pro-active stance on social issues that surround our industry.
 
 Having grown up in many different countries as a child (🇩🇪🇳🇱🇦🇺🇴🇲🇬🇧). I have developed a love for travel. Whether it be for a vacation or to relocate and live somewhere new, I am excited by the prospect of learning more about new cultures.
 
