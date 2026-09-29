@@ -3,9 +3,9 @@ layout: default
 ---
 <section class="hero section-wrap">
     <div class="hero__copy">
-        <p class="hero__name">{{ site.title }}</p>
         <p class="eyebrow"><span class="status-light" aria-hidden="true"></span>{{ site.data.profile.location }} <span class="eyebrow__divider">/</span> {{ site.data.profile.availability }}</p>
-        <h1>{{ site.data.profile.headline }}<span class="hero__period">.</span></h1>
+        <h1>{{ site.title }}</h1>
+        <p class="hero__tagline">{{ site.data.profile.headline }}<span class="hero__period">.</span></p>
         <p class="hero__intro">{{ site.data.profile.intro }}</p>
         <div class="hero__actions">
             <a class="button button--dark" href="{{ site.resume | relative_url }}" download="JordanWilliamsCV.pdf">Download CV <span aria-hidden="true">↓</span></a>
