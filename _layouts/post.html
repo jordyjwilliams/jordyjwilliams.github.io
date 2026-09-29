@@ -3,12 +3,12 @@ layout: default
 ---
 <article class="content-page section-wrap">
   <header class="content-page__heading">
-    <p class="eyebrow">{% if page.project %}PROJECT{% else %}EXPERIENCE{% endif %} <span>/</span> {{ page.start_date | date: "%Y" }}</p>
+    <p class="eyebrow{% unless page.project %} eyebrow--accent-slash{% endunless %}">{% if page.project %}PROJECT{% else %}EXPERIENCE{% endif %} <span>/</span> {{ page.start_date | date: "%Y" }}</p>
     <h1>{{ page.title }}</h1>
     {% if page.work_month %}
       <p class="date-range">{{ page.work_month }}</p>
     {% elsif page.start_date %}
-      <p class="date-range">{{ page.start_date | date: "%d %b %Y" }} <span>—</span> {% if page.end_date and page.end_date != "" %}{{ page.end_date | date: "%d %b %Y" }}{% else %}Present{% endif %}</p>
+      <p class="date-range">{{ page.start_date | date: "%d %b %Y" }} - {% if page.end_date and page.end_date != "" %}{{ page.end_date | date: "%d %b %Y" }}{% else %}Present{% endif %}</p>
     {% endif %}
   </header>
   <div class="prose">{{ content }}</div>
