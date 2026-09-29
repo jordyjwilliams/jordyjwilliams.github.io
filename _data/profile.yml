@@ -1,0 +1,17 @@
+headline: Engineering for the way we listen
+location: Melbourne, Australia
+availability: Seeking a new role
+intro: I'm a Senior Software Engineer and acoustical engineer, building backend and distributed systems for voice AI, speech technology, and digital hearing health.
+specialties:
+  - label: Backend
+    icon: "⚙️"
+  - label: Distributed systems
+    icon: "🔗"
+  - label: AWS
+    icon: "☁️"
+  - label: Voice AI
+    icon: "🎙️"
+  - label: LLMs and speech technology
+    icon: "🧠"
+  - label: Acoustics and audio
+    icon: "🔈"

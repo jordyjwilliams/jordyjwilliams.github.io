@@ -1,50 +1,63 @@
 ---
-layout: compress
+layout: default
 ---
-<!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
-<head>
-    {% include head.html %}
-</head>
-<body>
-    {% include nav.html %}
-    <!-- Header -->
-    <header class="header flex" role="banner">
-        <div class="container animated fadeIn">
-            <div class="row">
-                    <a href="{{ site.url }}">
-                        <img src="{{ site.logo }}" class="img-circle zoombtn animated bw2Color">
-                    </a>
-                    <h3 class="title">
-                        <a class="zoombtn" href="{{ site.url }}">
-                        	<p style="font-size:1.2rem;font-weight:300">{{ site.title }}</p>
-			            </a>
-                    </h3>
-                    <hr class="hr-line">
-                    <h3 class="title">
-                        <a href="{{ site.url }}">
-                        	<p style="font-size:1rem;font-weight:300">{{ site.bio }}</p>
-			            </a>
-                    </h3>
-                    {% include social-links.html %}
-                  <hr class="hr-line">
-                  <h3 class="title">
-                         <a class="btn zoombtn" href="{{ site.url }}/about">
-                         About Me
-                         </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/education">
-                         Education
-                         </a>
-                         <a class="btn zoombtn" href="{{ site.url }}/employment ">
-                         Employment & Internships
-                         </a>
-                 </h3>
-            </div>
+<section class="hero section-wrap">
+    <div class="hero__copy">
+        <p class="hero__name">{{ site.title }}</p>
+        <p class="eyebrow"><span class="status-light" aria-hidden="true"></span>{{ site.data.profile.location }} <span class="eyebrow__divider">/</span> {{ site.data.profile.availability }}</p>
+        <h1>{{ site.data.profile.headline }}<span class="hero__period">.</span></h1>
+        <p class="hero__intro">{{ site.data.profile.intro }}</p>
+        <div class="hero__actions">
+            <a class="button button--dark" href="{{ site.resume | relative_url }}" download="JordanWilliamsCV.pdf">Download CV <span aria-hidden="true">↓</span></a>
+            <a class="button button--light" href="mailto:{{ site.email }}">Get in touch <span aria-hidden="true">↗</span></a>
         </div>
-    </header>
-    {% include scripts.html %}
-</body>
-</html>
+        <div class="hero__contact-links" aria-label="Contact and profiles">
+            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+            <a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span></a>
+            <a href="https://github.com/{{ site.github-url }}" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+        </div>
+        <p class="hero__note">MEng Acoustical Engineering <span aria-hidden="true">·</span> PADI Open Water SCUBA Instructor</p>
+    </div>
+    <div class="hero__visual">
+        <div class="portrait-frame">
+            <img src="{{ '/assets/img/jordy.png' | relative_url }}" alt="Portrait of Jordy Williams" width="480" height="600">
+            <span class="portrait-frame__label">ENGINEERING <span>01 / 01</span></span>
+        </div>
+        <div class="hero__caption"><span>UK raised</span><span>Melbourne based</span></div>
+    </div>
+    <ul class="hero__specialties" aria-label="Areas of expertise">
+        {% for specialty in site.data.profile.specialties %}
+            <li class="specialty"><span class="specialty__icon" aria-hidden="true">{{ specialty.icon }}</span><span>{{ specialty.label }}</span></li>
+        {% endfor %}
+    </ul>
+</section>
+
+<section class="section-wrap section-block" id="experience">
+    <div class="section-heading">
+        <p class="eyebrow">01 <span>/</span> EXPERIENCE</p>
+        <div><h2>Recent work</h2><p>Building reliable products, platforms and engineering systems.</p></div>
+        <a class="text-link" href="{{ '/employment/' | relative_url }}">Full experience <span aria-hidden="true">↗</span></a>
+    </div>
+    <div class="experience-list">
+        {% assign experience_posts = site.posts | where_exp: "post", "post.project != true" %}
+        {% for post in experience_posts limit: 3 %}
+            <article class="experience-row">
+                <p class="experience-row__date">
+                    {% if post.start_date %}{{ post.start_date | date: "%b %Y" }}{% endif %}
+                    {% if post.end_date and post.end_date != "" %}<span>—</span>{{ post.end_date | date: "%b %Y" }}{% elsif post.start_date %}<span>—</span>Present{% endif %}
+                </p>
+                <div class="experience-row__body">
+                    <h3>{% if post.image %}<img class="experience-row__logo" src="{{ post.image | relative_url }}" alt="" width="42" height="42" loading="lazy">{% endif %}<a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+                    <p>{{ post.content | markdownify | strip_html | normalize_whitespace | truncatewords: 28 }}</p>
+                </div>
+                <a class="row-arrow" href="{{ post.url | relative_url }}" aria-label="Read about {{ post.title }}">↗</a>
+            </article>
+        {% endfor %}
+    </div>
+</section>
+
+<section class="section-wrap closing-section">
+    <p class="eyebrow">02 <span>/</span> ABOUT</p>
+    <div><h2>Software engineering, grounded in acoustics.</h2><p>My work brings together backend engineering, speech technology and a formal background in acoustical engineering. Away from the keyboard, I’m usually underwater or volunteering around Melbourne.</p></div>
+    <a class="button button--outline" href="{{ '/about/' | relative_url }}">More about me <span aria-hidden="true">↗</span></a>
+</section>

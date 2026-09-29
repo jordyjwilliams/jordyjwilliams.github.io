@@ -1,75 +1,16 @@
 ---
-layout: compress
+layout: default
 ---
-<!DOCTYPE html>
-<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
-<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
-<head>
-    {% include head.html %}
-</head>
-<body>
-    {% include nav.html %}
-    <!-- Header -->
-    <header class="header" role="banner">
-        <div class="wrapper animated fadeIn">
-            <div class="content">
-                <div class="post-title {% if page.feature %} feature {% endif %}">
-                    <!-- Note: when showing the current role set end_date to "" in post -->
-                    <!-- only one month worked -->
-                    <h1>{{ page.title }}</h1>
-                    {% if page.work_month %}
-                        <h4>{{ page.work_month }}</h4>
-                    {% elsif page.start_date and page.end_date == "" %}
-                        <h4>{{ page.start_date | date_to_string }} - current </h4>
-                    <!-- when a page.start_date is present but page.end_date is empty -->
-                    {% elsif page.start_date != "" and page.end_date != "" %}
-                        <!-- Get distance between start and end dates, convert to best unit -->
-                        {%   assign start = page.start_date | date: '%s'  %}
-                        {%   assign end = page.end_date | date: '%s'  %}
-                        {%   assign seconds_worked = end | minus: start | date:"%s" %}
-                        {%   assign hours_worked = seconds_worked | divided_by: 60 | divided_by: 60 %}
-                        {%   assign days_worked = hours_worked | divided_by: 24  %}
-                        {%   assign months_worked = days_worked | divided_by: 30  %}
-                        {%   assign years_worked = months_worked | divided_by: 12  %}
-                        
-                    {% if years_worked >= 1 %}
-                        <h4>{{ page.start_date | date_to_string }} - {{ page.end_date | date_to_string }}: ~{{years_worked}} Year(s) {{months_worked | modulo: 12}} Month(s)</h4>
-                    {% else %}
-                        {% if months_worked == 0 %}
-                            {% assign months_worked = 1 %}
-                        {% endif %}
-                        <h4>{{ page.start_date | date_to_string }} - {{ page.end_date | date_to_string }}: ~{{months_worked}} Month(s)</h4>
-                    {% endif %}
-                    {% endif %}
-                    
-                    {% if site.reading_time %}
-                    <p class="reading-time">
-                        <i class="fa fa-clock-o"></i>
-                        {% include read-time.html %}
-                    </p><!-- /.entry-reading-time -->
-                    {% endif %}
-                    {% if page.project %}
-                    <a class="btn zoombtn" href="{{site.url}}/projects/">
-                        {% else %}
-                        <a class="btn zoombtn" href="{{site.url}}/employment/">
-                            {% endif %}
-                            <i class="fa fa-chevron-left"></i>
-                    </a>
-                </div>
-                {{ content }}
-                <div class="entry-meta">
-                {% include meta.html %}
-                </div>
-            </div>
-        </div>
-        {% if page.comments and site.disqus_shortname %}<section id="disqus_thread" class="animated fadeInUp"></section><!-- /#disqus_thread -->{% endif %}
-    </header>
-    {% include scripts.html %}
-    {% if site.mathjax == true %}
-    <!-- MathJax -->
-    <script async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<article class="content-page section-wrap">
+  <header class="content-page__heading">
+    <p class="eyebrow">{% if page.project %}PROJECT{% else %}EXPERIENCE{% endif %} <span>/</span> {{ page.start_date | date: "%Y" }}</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.work_month %}
+      <p class="date-range">{{ page.work_month }}</p>
+    {% elsif page.start_date %}
+      <p class="date-range">{{ page.start_date | date: "%d %b %Y" }} <span>—</span> {% if page.end_date and page.end_date != "" %}{{ page.end_date | date: "%d %b %Y" }}{% else %}Present{% endif %}</p>
     {% endif %}
-</body>
-</html>
+  </header>
+  <div class="prose">{{ content }}</div>
+  <a class="text-link content-page__back" href="{% if page.project %}{{ '/projects/' | relative_url }}{% else %}{{ '/employment/' | relative_url }}{% endif %}"><span aria-hidden="true">←</span> Back to {% if page.project %}projects{% else %}experience{% endif %}</a>
+</article>
