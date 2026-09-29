@@ -14,13 +14,13 @@ In addition to the employment/internships described [here]({{ site.url }}/employ
     * [Shure Distribution](https://www.shure.com/en-GB/about-us)
 * July 2012
     * [Sue Allatt](https://www.sueallatt.com/)
-    * [Big Sky Photographic Studio](https://www.bigskylondon.com/) – London
+    * [Big Sky Photographic Studio](https://www.bigskylondon.com/) - London
 * April 2012
-    * [Wave Recording and Postproduction Studios](https://wavestudios.co.uk/) – London
+    * [Wave Recording and Postproduction Studios](https://wavestudios.co.uk/) - London
 * October 2011
     * [London College of Style](https://londoncollegeofstyle.com/)
-    * [Worx Photographic Studio](https://www.theworx.co.uk/) – London
+    * [Worx Photographic Studio](https://www.theworx.co.uk/) - London
 * June 2011
-    * [Jack and Glide FM](https://www.jackfm.co.uk/) Radio Station – Oxford
+    * [Jack and Glide FM](https://www.jackfm.co.uk/) Radio Station - Oxford
 
 _Further information available [on request](mailto:{{ site.email }}?subject=Reference%20Request)_
