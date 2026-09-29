@@ -2,13 +2,13 @@
 layout: post
 title: "Contact Harald"
 start_date: "2025-09-01"
-end_date: ""
-excerpt: "01/09/2025 - current"
+end_date: "2026-09-21"
+excerpt: "01/09/2025 - 21/09/2026"
 image: "/assets/img/logos/contact_harald.png"
 comments: false
 ---
 
-Currently working at [Contact Harald](https://www.contactharald.com/).
+I worked at [Contact Harald](https://www.contactharald.com/) from September 2025 to 21 September 2026.
 
 Roles and responsibilities:
 * Implemented structures for testing and validating STT (Speech-to-Text) systems.
