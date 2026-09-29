@@ -184,7 +184,8 @@ h1, h2, h3, p { margin-top: 0; }
 	text-transform: uppercase;
 }
 
-.eyebrow span:not(.status-light) { margin: 0 6px; color: var(--coral); }
+.eyebrow span:not(.status-light) { margin: 0 6px; color: inherit; }
+.eyebrow--accent-slash span:not(.status-light) { color: var(--coral); }
 
 .status-light {
 	width: 8px;
@@ -401,8 +402,6 @@ h1, h2, h3, p { margin-top: 0; }
 	white-space: nowrap;
 }
 
-.experience-row__date span { margin: 0 5px; color: var(--coral); }
-
 .experience-row__body h2,
 .experience-row__body h3 {
 	margin: 0 0 7px;
@@ -465,7 +464,6 @@ h1, h2, h3, p { margin-top: 0; }
 
 .date-range,
 .page-intro { margin: 16px 0 0; color: var(--muted); font-size: 15px; }
-.date-range span { margin: 0 6px; color: var(--coral); }
 .prose { max-width: 740px; padding-top: 28px; }
 
 .prose h2 {
