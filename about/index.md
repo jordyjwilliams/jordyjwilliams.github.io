@@ -6,7 +6,7 @@ comments: false
 ---
 
 ## Overview
-Hi, I'm Jordy, an Acoustical Engineer and Audio Research Engineer originally from the UK. I am based in Melbourne, Australia and am currently seeking my next software engineering role. Most recently, I worked at [Contact Harald](https://www.contactharald.com/) from September 2025 to September 2026, contributing to the Voice AI pipelien through speech-to-text testing and transcription accuracy. For more information on my development skillset please see my [resume]({{site.resume}}).
+Hi, I'm Jordy, a Senior Software Engineer and acoustical engineer from the UK, based in Melbourne and seeking my next role. Most recently at [Contact Harald](https://www.contactharald.com/), I owned the backend and real-time voice AI platform, migrated its bespoke LiveKit/Pipecat pipeline to VAPI, and built speech evaluation tooling that improved short-utterance handling by 15% and registration transcription accuracy by 25%. I also reduced monthly infrastructure costs by 60%. See my [CV]({{ site.resume | relative_url }}).
 
 At `daisee`, I worked with `AWS` cloud infrastructure to streamline and standardize the codebase.
 
