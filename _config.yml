@@ -1,13 +1,8 @@
 # Site
 title:              Jordy Williams
-bio:                '
-<br><code>Acoustical Engineering, MEng</code></br>
-Senior Software Engineer @ <code><ahref="https://www.daisee.com"/>daisee</code></a>
-<br/>
-<br>💻 Senior Software Engineer 💻</br>
-🔈 Acoustical/Audio Research Engineer 🔈
-<br>🐠🤿 PADI SCUBA Instructor: <code>#521989</code> 🤿🐠</br>
-'
+bio: >-
+  Senior Software Engineer | Backend | Distributed Systems | Voice AI | LLMs | AWS |
+  Speech and audio technology | Seeking a new role
 description:        "📍: MEL, AU, AEST 🇦🇺"
 reading_time:       false
 words_per_minute:   200
