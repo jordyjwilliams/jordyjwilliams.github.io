@@ -6,9 +6,9 @@ comments: false
 ---
 
 ## Overview
-Hi, I'm Jordy, an Acoustical Engineer and Audio Research Engineer originally from the UK. I am currently based in Melbourne, Australia where I am working as a Senior Software Developer for [`daisee`](https://www.daisee.com/). For more information on my development skillset please see my [resume]({{site.resume}}).
+Hi, I'm Jordy, an Acoustical Engineer and Audio Research Engineer originally from the UK. I am based in Melbourne, Australia and am currently seeking my next software engineering role. Most recently, I worked at [Contact Harald](https://www.contactharald.com/) from September 2025 to September 2026, contributing to the Voice AI pipelien through speech-to-text testing and transcription accuracy. For more information on my development skillset please see my [resume]({{site.resume}}).
 
-Currently at `daisee` I am working actively with the `AWS` Cloud Infrastructure technologies in order to better streamline and standardize the codebase used.
+At `daisee`, I worked with `AWS` cloud infrastructure to streamline and standardize the codebase.
 
 Previously, I worked part-time as an [academic assistant at CoderAcademy]({{site.url}}/coderAcademy/) on their [WebDev Bootcamp](https://www.coderacademy.edu.au/web-development-bootcamp) course. It was an experience to further my teaching knowledge by inspiring a new generation of developers.
 
@@ -16,7 +16,7 @@ My main freelance client has been [Mimi Hearing Technologies]({{site.url}}/mimi_
 
 I also have a passion for SCUBA diving, and am a `PADI Open Water SCUBA Instructor (OWSI)`. I intend to work professionally in both the technology and diving industries, with a higher weighting towards the technology industry. I have a positive experience of this in the past.
 
-If you'd like to get in touch feel free to contact me on any of the methods given here. I am always open to new opportunities and experiences. I'm more than happy to have a chat about how my skillset can fit in with your project, company or team.
+If you'd like to get in touch, feel free to contact me through any of the methods listed here. I welcome conversations about software engineering opportunities and how my experience could fit your team.
 
 ## What drives me?
 I have a passion for hearing/digital health, as well as professional audio, my main aim is to try and use my formal knowledge of acoustics, audio and engineering in a way that can benefit people.
