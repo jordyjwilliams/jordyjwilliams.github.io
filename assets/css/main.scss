@@ -272,7 +272,7 @@ h1, h2, h3, p { margin-top: 0; }
 	position: relative;
 	padding: 12px 12px 38px;
 	background: var(--lime);
-	box-shadow: 12px 12px 0 var(--coral);
+	border: 1px solid var(--line);
 }
 
 .portrait-frame img {
@@ -653,7 +653,8 @@ body { background: var(--paper); }
 
 .portrait-frame {
 	background: #27352f;
-	box-shadow: 12px 12px 0 var(--coral);
+	box-shadow: none;
+	border-color: rgba(120, 208, 189, .45);
 }
 
 .portrait-frame__label { color: var(--ink); }
@@ -704,7 +705,7 @@ body { background: var(--paper); }
 .row-arrow:hover { border-color: var(--lime); color: var(--lime); }
 .content-page__heading { border-bottom-color: var(--line); }
 .prose p, .prose li { color: #d0d9d2; }
-.site-footer { border-top: 1px solid var(--line); background: #090d0c; }
+.site-footer { border-top: 1px solid var(--line); background: #090d0c; color: #edf1ed; }
 
 @media (max-width: 560px) {
 	.experience-row { padding: 16px; }
