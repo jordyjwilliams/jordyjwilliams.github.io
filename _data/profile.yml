@@ -4,14 +4,14 @@ availability: Seeking a new role
 intro: I'm a Senior Software Engineer and acoustical engineer, building backend and distributed systems for voice AI, speech technology, and digital hearing health.
 specialties:
   - label: Backend
-    icon: "⚙️"
+    icon: "&#xf233;"
   - label: Distributed systems
-    icon: "🔗"
+    icon: "&#xf0e8;"
   - label: AWS
-    icon: "☁️"
+    icon: "&#xf0c2;"
   - label: Voice AI
-    icon: "🎙️"
+    icon: "&#xf130;"
   - label: LLMs and speech technology
-    icon: "🧠"
+    icon: "&#xf086;"
   - label: Acoustics and audio
-    icon: "🔈"
+    icon: "&#xf028;"
