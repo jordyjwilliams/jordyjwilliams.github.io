@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education
-subtitle: "University. , a project prize, and several opinions about sound."
+subtitle: "University, where the true nerd was unleashed. The starting point for several obsessions and hyperfixations."
 tags: [about, Jordy, Williams, overview]
 date: 2019-07-24
 comments: false
