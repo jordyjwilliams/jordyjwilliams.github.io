@@ -160,6 +160,13 @@ h1, h2, h3, p { margin-top: 0; }
 	font-size: 14px;
 }
 
+.ui-icon {
+	font-family: "Font Awesome", sans-serif;
+	font-size: .9em;
+	font-weight: 400;
+	line-height: 1;
+}
+
 .primary-nav a:hover,
 .site-footer__links a:hover { color: var(--ink); }
 

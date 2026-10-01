@@ -19,7 +19,7 @@ layout: default
                     <h2>{% if post.image %}<img class="experience-row__logo" src="{{ post.image | relative_url }}" alt="" width="42" height="42" loading="lazy">{% endif %}<a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
                     <p>{{ post.content | markdownify | strip_html | normalize_whitespace | truncatewords: 34 }}</p>
                 </div>
-                <a class="row-arrow" href="{{ post.url | relative_url }}" aria-label="Read about {{ post.title }}">↗</a>
+                <a class="row-arrow" href="{{ post.url | relative_url }}" aria-label="Read about {{ post.title }}"><span class="ui-icon" aria-hidden="true">&#xf08e;</span></a>
             </article>
         {% endfor %}
     </div>

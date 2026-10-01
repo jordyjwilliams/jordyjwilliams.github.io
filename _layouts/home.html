@@ -8,13 +8,13 @@ layout: default
         <p class="hero__tagline">{{ site.data.profile.headline }}<span class="hero__period">.</span></p>
         <p class="hero__intro">{{ site.data.profile.intro }}</p>
         <div class="hero__actions">
-            <a class="button button--dark" href="{{ site.resume | relative_url }}" download="JordanWilliamsCV.pdf">Download CV <span aria-hidden="true">↓</span></a>
-            <a class="button button--light" href="mailto:{{ site.email }}">Get in touch <span aria-hidden="true">↗</span></a>
+            <a class="button button--dark" href="{{ site.resume | relative_url }}" download="JordanWilliamsCV.pdf">Download CV <span class="ui-icon" aria-hidden="true">&#xf063;</span></a>
+            <a class="button button--light" href="mailto:{{ site.email }}">Get in touch <span class="ui-icon" aria-hidden="true">&#xf08e;</span></a>
         </div>
         <div class="hero__contact-links" aria-label="Contact and profiles">
-            <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-            <a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn <span aria-hidden="true">↗</span></a>
-            <a href="https://github.com/{{ site.github-url }}" target="_blank" rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a>
+            <a href="mailto:{{ site.email }}">{{ site.email }} <span class="ui-icon" aria-hidden="true">&#xf0e0;</span></a>
+            <a href="https://www.linkedin.com/in/{{ site.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn <span class="ui-icon" aria-hidden="true">&#xf08e;</span></a>
+            <a href="https://github.com/{{ site.github-url }}" target="_blank" rel="noopener noreferrer">GitHub <span class="ui-icon" aria-hidden="true">&#xf08e;</span></a>
         </div>
         <p class="hero__note">MEng Acoustical Engineering</p>
     </div>
@@ -36,7 +36,7 @@ layout: default
     <div class="section-heading">
         <p class="eyebrow eyebrow--accent-slash">EXPERIENCE</p>
         <div><h2>Recent work</h2><p>Building reliable products, platforms and engineering systems.</p></div>
-        <a class="text-link" href="{{ '/employment/' | relative_url }}">Full experience <span aria-hidden="true">↗</span></a>
+        <a class="text-link" href="{{ '/employment/' | relative_url }}">Full experience <span class="ui-icon" aria-hidden="true">&#xf08e;</span></a>
     </div>
     <div class="experience-list">
         {% assign experience_posts = site.posts | where_exp: "post", "post.project != true" %}
@@ -50,7 +50,7 @@ layout: default
                     <h3>{% if post.image %}<img class="experience-row__logo" src="{{ post.image | relative_url }}" alt="" width="42" height="42" loading="lazy">{% endif %}<a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
                     <p>{{ post.content | markdownify | strip_html | normalize_whitespace | truncatewords: 28 }}</p>
                 </div>
-                <a class="row-arrow" href="{{ post.url | relative_url }}" aria-label="Read about {{ post.title }}">↗</a>
+                <a class="row-arrow" href="{{ post.url | relative_url }}" aria-label="Read about {{ post.title }}"><span class="ui-icon" aria-hidden="true">&#xf08e;</span></a>
             </article>
         {% endfor %}
     </div>
@@ -59,5 +59,5 @@ layout: default
 <section class="section-wrap closing-section">
     <p class="eyebrow eyebrow--accent-slash">ABOUT</p>
     <div><h2>Software engineering, grounded in acoustics.</h2><p>My work brings together backend engineering, speech technology and a formal background in acoustical engineering. Away from the keyboard, I’m usually underwater or volunteering around Melbourne.</p></div>
-    <a class="button button--outline" href="{{ '/about/' | relative_url }}">More about me <span aria-hidden="true">↗</span></a>
+    <a class="button button--outline" href="{{ '/about/' | relative_url }}">More about me <span class="ui-icon" aria-hidden="true">&#xf08e;</span></a>
 </section>

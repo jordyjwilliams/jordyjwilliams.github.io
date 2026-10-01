@@ -12,5 +12,5 @@ layout: default
     {% endif %}
   </header>
   <div class="prose">{{ content }}</div>
-  <a class="text-link content-page__back" href="{% if page.project %}{{ '/projects/' | relative_url }}{% else %}{{ '/employment/' | relative_url }}{% endif %}"><span aria-hidden="true">←</span> Back to {% if page.project %}projects{% else %}experience{% endif %}</a>
+  <a class="text-link content-page__back" href="{{ '/employment/' | relative_url }}"><span class="ui-icon" aria-hidden="true">&#xf060;</span> Back to experience</a>
 </article>
