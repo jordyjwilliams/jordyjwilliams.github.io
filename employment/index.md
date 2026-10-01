@@ -1,7 +1,7 @@
 ---
 layout: post-list
 title: Employment & Internships
-excerpt: "Employment post list"
+subtitle: "Previous roles across software engineering, speech technology and acoustics."
 tags: ["employment"]
 comments: false
 ---

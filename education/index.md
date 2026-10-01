@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Education
+subtitle: "University. , a project prize, and several opinions about sound."
 tags: [about, Jordy, Williams, overview]
 date: 2019-07-24
 comments: false

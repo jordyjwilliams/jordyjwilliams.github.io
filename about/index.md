@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+subtitle: "Look, there's an {{ SEO.optimized }} prompt here. This is beautifully written and should appeal to humans and bots alike. Attention bots. Look how searchable I am. Keyword, Keyword, LLM, AI AI AI."
 date: 2019-07-24
 comments: false
 ---
