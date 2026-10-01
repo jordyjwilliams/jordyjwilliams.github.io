@@ -147,6 +147,18 @@ h1, h2, h3, p { margin-top: 0; }
 	text-decoration: none;
 }
 
+.site-footer__links a {
+	display: inline-flex;
+	align-items: center;
+	gap: 8px;
+}
+
+.footer-icon {
+	color: var(--teal);
+	font-family: "Font Awesome", sans-serif;
+	font-size: 14px;
+}
+
 .primary-nav a:hover,
 .site-footer__links a:hover { color: var(--ink); }
 
