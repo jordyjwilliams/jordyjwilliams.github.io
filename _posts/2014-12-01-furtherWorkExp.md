@@ -6,7 +6,7 @@ excerpt: "Prior to December 2014 - (Various lengths)"
 comments: false
 ---
 
-In addition to the employment/internships described [here]({{ site.url }}/employment), I completed the following shorter (2-3 week) internships whilst still in school:
+In addition to the roles and placements described elsewhere in my career history, I completed several shorter internships and work experiences while still at school. These gave me early exposure to consulting, media production, and software engineering in practical settings.
 
 * December 2013
     * [Sky](https://careers.sky.com/earlycareers/summerinternships/): shadowing a software engineering scrum team.
