@@ -8,14 +8,18 @@ image: "/assets/img/logos/coderAcademy.png"
 comments: false
 ---
 
-Part-time work as an Academic Mentor at [CoderAcademy](https://www.coderacademy.edu.au/) on their [WebDev Bootcamp](https://www.coderacademy.edu.au/web-development-bootcamp) course. I am assisting with teaching 3 times a week on 4 hour online lessons with ~30+ students. Depending on the cohort there can be as many as 90 students (typically these will be split off into breakout rooms with many Educators!). The course is fairly fast paced with a standard and accelerated streams. It provides a very through and well-rounded overview of all elements of web and full stack development. The students are very diverse and have hugely varied desires to get into the industry. They can start the course with only basic IT skills. After study for 10 or 6 months (standard vs accelerated respectively), they are prepared to apply for entry level full stack or web dev positions.
+I worked part-time as an Academic Mentor at [CoderAcademy](https://www.coderacademy.edu.au/) on their [WebDev Bootcamp](https://www.coderacademy.edu.au/web-development-bootcamp), supporting students across a fast-paced, full-stack curriculum delivered online.
+
+The role required balancing live support, asynchronous Q&A, and structured teaching across several cohorts with very different experience levels. It was a strong fit for my interest in education, mentoring, and building practical developer skills in inclusive learning environments.
 
 Roles and responsibilities:
-* Provide support to (on average) 30-40 students during online lessons.
-* Answer student questions asynchronously outside of lessons across 3-4 simultaneous cohorts.
-* Manage, maintain and run 3-5 Zoom meetings per week updating with class and curriculum details.
-* Upload, create and catalogue meeting: notes, recordings and chat logs for 10+ hours of meetings per week.
-* Write, run and provide feedback for: quizzes and [code challenges](https://github.com/CoderAcademy-ALL/ed_challenges_term3_javascript/) for each of the 2+ lessons per week.
+* Supported an average of 30-40 students (per cohort) during live online lessons.
+* Answered student questions asynchronously across 3-4 simultaneous cohorts.
+* Managed and ran 3-5 Zoom sessions per week, keeping class delivery and curriculum updates aligned.
+* Uploaded, catalogued and maintained meeting notes, recordings and chat logs spanning 10+ hours per week.
+* Wrote, ran and provided feedback on quizzes and [code challenges](https://github.com/CoderAcademy-ALL/ed_challenges_term3_javascript/) across 2+ lessons per week.
+
+**Key skills:** education, teaching, mentoring, curriculum design, learning support.
 
 <figure>
 	<a href="/assets/img/logos/coderAcademy.png"><img src="/assets/img/logos/coderAcademy.png"></a>
