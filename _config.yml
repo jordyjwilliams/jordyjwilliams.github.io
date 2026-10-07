@@ -1,10 +1,13 @@
 # Site
 title: Jordy Williams
-description: Senior Software Engineer focused on backend systems, distributed systems and voice AI. Based in Melbourne, Australia.
-locale: en_GB
+description: Senior Software Engineer based in Melbourne, Australia, with experience in backend systems, distributed systems, AI and voice products.
+author: Jordy Williams
+locale: en_AU
+lang: en-AU
 url: https://jordyjwilliams.github.io
 baseurl: ""
 permalink: /:title/
+logo: /assets/img/jordy.png
 markdown: kramdown
 highlighter: rouge
 
