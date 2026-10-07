@@ -15,9 +15,14 @@ At [daisee](https://www.daisee.com/), I worked closely with AWS-based cloud infr
 
 My freelance work with [Mimi Hearing Technologies]({{site.url}}/mimi_hearing_technologies) gave me further experience building products at the intersection of health, audio, and software engineering. While living in Berlin, I also volunteered as a Python instructor with [ReDI school](https://www.redi-school.org/berlin), supporting learners from non-traditional backgrounds.
 
-I also have a passion for SCUBA diving, and am a `PADI Open Water SCUBA Instructor (OWSI)`. I intend to work professionally in both the technology and diving industries, with a higher weighting towards the technology industry. I have a positive experience of this in the past.
+I’m open to software engineering roles where I can contribute across backend architecture, product engineering, AI systems, and cross-functional delivery.
 
-If you'd like to get in touch, feel free to contact me through any of the methods listed here. I welcome conversations about software engineering opportunities and how my experience could fit your team.
+### Key Strengths
+* Backend and distributed systems engineering
+* AI and voice product development
+* Real-time systems and observability
+* Python, cloud infrastructure and platform tooling
+* Acoustics, audio signal processing and product thinking
 
 ## What drives me?
 I have a passion for hearing/digital health, as well as professional audio, my main aim is to try and use my formal knowledge of acoustics, audio and engineering in a way that can benefit people.
