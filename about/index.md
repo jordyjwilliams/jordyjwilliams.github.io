@@ -42,17 +42,10 @@ Having grown up in several countries, I’ve developed a strong interest in trav
 
 I loved volunteering on the [Intro to Python](https://www.redi-school.org/berlin-career-program) course at [ReDI school](https://www.redi-school.org/berlin), where the focus was on making technology accessible to people new to the country they were living in.
 
-## What else do I like?
-* 🐠 SCUBA Diving 🐠
-    * `PADI Open Water SCUBA Instructor (OWSI)`. `PADI Number:` **521989**.
-    * Experience working with [Divers Den](https://www.diversden.com.au/), Cairns, GBR, AU.
-* 🛥️--<🏄 Wakeboarding 🛥️--<🏄
-I was the [SUWake (Southampton University Wakeboarding Society):](https://suwake.susu.org)  
-    * `Beginner Secretary` - 16/17
-    * `President` -  17/18
-        * In this role I helped lead the club's first international summer trip.
-    * Also built the clubs [website](https://suwake.susu.org)
-* 📸 (Analogue) photography 📸, 🎵 music 🎵, 🎭 theater 🎭, 🏂 snowboarding 🏂
+## Outside of work
+Outside of work, I’m most likely to be volunteering with one of the organisations above, diving, taking photos at gigs, or playing ice hockey. I also still enjoy wakeboarding when the chance comes up.
+
+I’m a `PADI Open Water SCUBA Instructor (OWSI)` and have previously worked with [Divers Den](https://www.diversden.com.au/) in Cairns. I’ve also been involved with [SUWake](https://suwake.susu.org), the Southampton University wakeboarding club, where I served as a committee member and helped build the club’s website.
 
 ## References
 _For all reference requests please [contact me](mailto:{{ site.email }}?subject=Reference%20Request) and I can provide you with an up-to-date list of suitable referees_
