@@ -8,26 +8,20 @@ image: "/assets/img/logos/mimi.png"
 comments: false
 ---
 
-My most recent full time role was for Mimi Hearing Technologies as an Audio Research Engineer / Python Developer. Since February 2021 I have been freelancing and working in the same role in a supporting capacity.
+I worked at [Mimi Hearing Technologies](https://www.mimi.io/) as an Audio Research Engineer and Python Developer, and continued in a supporting capacity after moving into freelance work.
 
-Our core tech is a medically certified hearing test, allowing for a scientifically informed and biologically inspired audio personalization solution. Our processing is dynamic, complex and  offers a truly personal solution. All of this is rolled into a SDK with the aim of being [integrated easily](https://integrate.mimi.io/) by [external partners](https://www.mimi.io/partners). Our processing is also capable of running on a multitude of common [industry standard chipsets and devices](https://integrate.mimi.io/solutions/implement-mimi).
+The company’s medically certified hearing technology combines signal processing, personalisation and product integration into a flexible platform for hearing health. My work sat at the intersection of product, research and delivery, with a strong focus on the sonic experience delivered to end users.
 
-My role as an Audio Engineer transitions the product and research teams, primarily concerning the sonic experience given to the end user of our technology (their personalized sound).
+This role helped me develop a broader engineering toolkit in a fast-moving startup environment:
+* Working within cross-functional scrum teams using both Agile and Kanban methods.
+* Strengthening software quality practices through code review, CI/CD automation and QA.
+* Improving Python capability while developing working knowledge of `C++`, `bash`, `Lua` and `YAML`.
+* Helping to design and validate new hearing test methodologies.
+* Real-time audio processing and optimisation for multiple chipsets and devices.
+* Database interaction and data handling across `MongoDB`, `PyMongo`, `Postgres` and `SQL`.
+* Translating product and research ideas into delivered product features across design, development, partner integration and business-facing work.
 
-Through working in a dynamic start-up environment I was able to further my knowledge in:
-* Working in cross-functional scrum teams:
-   * Using both Agile & Kanban frameworks
-* Was able to improve my skills as a developer:
-   * Code-review, automated CICD testing and deployment (CircleCI) and QA
-   * Python skills built and improved
-   * Was able to learn a functioning understanding of `C++, bash, lua & yaml`
-* Helped develop and QA new hearing testing methodologies
-* Real-time audio processing
-* Porting to different chip-sets
-* Database management and interaction (`MongoDB, PyMongo, Postgres, SQL`)
-* The interaction between different business areas and their interaction:
-   * Was able to see product ideas from initial design and research ideas come to fruition in a product.
-   * For example: design, development, partner integrations & BizDev/Marketing
+**Key skills:** Python, C++, audio engineering, real-time signal processing, machine learning, data analysis.
 
 <figure>
 	<a href="/assets/img/logos/mimi.png"><img src="/assets/img/logos/mimi.png"></a>
