@@ -11,11 +11,9 @@ Hi, I'm Jordy, a Senior Software Engineer with a background in acoustics, audio,
 
 Most recently at [Contact Harald](https://www.contactharald.com/), I owned the backend and real-time voice AI platform, migrated a bespoke LiveKit/Pipecat pipeline to VAPI, and built speech evaluation tooling that improved short-utterance handling by 15% and registration transcription accuracy by 25%. I also reduced monthly infrastructure costs by 60%. See my [CV]({{ site.resume | relative_url }}).
 
-At `daisee`, I worked with `AWS` cloud infrastructure to streamline and standardize the codebase.
+At [daisee](https://www.daisee.com/), I worked closely with AWS-based cloud infrastructure to streamline onboarding, improve platform reliability, and modernize legacy systems. Previously, I also supported [CoderAcademy](https://www.coderacademy.edu.au/) as an academic mentor, helping students progress through a full-stack web development bootcamp.
 
-Previously, I worked part-time as an [academic assistant at CoderAcademy]({{site.url}}/coderAcademy/) on their [WebDev Bootcamp](https://www.coderacademy.edu.au/web-development-bootcamp) course. It was an experience to further my teaching knowledge by inspiring a new generation of developers.
-
-My main freelance client has been [Mimi Hearing Technologies]({{site.url}}/mimi_hearing_technologies), a company where I previously worked full-time. They are a hearing health based startup in Berlin, DE. Whilst living in Berlin and [working for Mimi]({{site.url}}/mimi_hearing_technologies) I undertook volunteer work as a teacher of `Introduction to Python` program at [ReDI school](https://www.redi-school.org/berlin) (see more below).
+My freelance work with [Mimi Hearing Technologies]({{site.url}}/mimi_hearing_technologies) gave me further experience building products at the intersection of health, audio, and software engineering. While living in Berlin, I also volunteered as a Python instructor with [ReDI school](https://www.redi-school.org/berlin), supporting learners from non-traditional backgrounds.
 
 I also have a passion for SCUBA diving, and am a `PADI Open Water SCUBA Instructor (OWSI)`. I intend to work professionally in both the technology and diving industries, with a higher weighting towards the technology industry. I have a positive experience of this in the past.
 
