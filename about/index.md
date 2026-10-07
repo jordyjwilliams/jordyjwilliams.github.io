@@ -7,7 +7,9 @@ comments: false
 ---
 
 ## Overview
-Hi, I'm Jordy, a Senior Software Engineer and acoustical engineer from the UK, based in Melbourne and seeking my next role. Most recently at [Contact Harald](https://www.contactharald.com/), I owned the backend and real-time voice AI platform, migrated its bespoke LiveKit/Pipecat pipeline to VAPI, and built speech evaluation tooling that improved short-utterance handling by 15% and registration transcription accuracy by 25%. I also reduced monthly infrastructure costs by 60%. See my [CV]({{ site.resume | relative_url }}).
+Hi, I'm Jordy, a Senior Software Engineer with a background in acoustics, audio, and product engineering. Based in Melbourne, I work across backend systems, distributed services, and AI/voice products, with a focus on practical engineering that improves reliability, usability, and delivery.
+
+Most recently at [Contact Harald](https://www.contactharald.com/), I owned the backend and real-time voice AI platform, migrated a bespoke LiveKit/Pipecat pipeline to VAPI, and built speech evaluation tooling that improved short-utterance handling by 15% and registration transcription accuracy by 25%. I also reduced monthly infrastructure costs by 60%. See my [CV]({{ site.resume | relative_url }}).
 
 At `daisee`, I worked with `AWS` cloud infrastructure to streamline and standardize the codebase.
 
