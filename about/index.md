@@ -26,7 +26,7 @@ I’m open to software engineering roles where I can contribute across backend a
 * Python, cloud infrastructure and platform tooling
 * Acoustics, audio signal processing and product thinking
 
-## What do I care about outside of work?
+## What drives me?
 I’m motivated by work that sits at the intersection of technical depth and meaningful user impact. My background in acoustics and audio continues to shape how I approach software engineering, especially in product areas that connect engineering and human experience.
 
 This is reflected in my volunteer work with [Action on Hearing Loss](https://www.actiononhearingloss.org.uk/) and my role as `Charity Officer` for the [Southampton University Sign Language Society](https://www.facebook.com/sotonsignsoc/) while at university.
@@ -43,9 +43,9 @@ Having grown up in several countries, I’ve developed a strong interest in trav
 I loved volunteering on the [Intro to Python](https://www.redi-school.org/berlin-career-program) course at [ReDI school](https://www.redi-school.org/berlin), where the focus was on making technology accessible to people new to the country they were living in.
 
 ## Outside of work
-Outside of work, I’m most likely to be volunteering with one of the organisations above, diving, taking photos at gigs, or playing ice hockey. I also still enjoy wakeboarding when the chance comes up.
+Outside of work, I’m most likely to be volunteering with one of the organisations above, SCUBA diving, taking photos at gigs, or playing ice hockey.
 
-I’m a `PADI Open Water SCUBA Instructor (OWSI)` and have previously worked with [Divers Den](https://www.diversden.com.au/) in Cairns. I’ve also been involved with [SUWake](https://suwake.susu.org), the Southampton University wakeboarding club, where I served as a committee member and helped build the club’s website.
+I was previously a `PADI Open Water SCUBA Instructor (OWSI)` used to work with [Divers Den](https://www.diversden.com.au/) in Cairns. I’ve also been involved with [SUWake](https://suwake.susu.org), the Southampton University wakeboarding club, where I served as a committee member and helped build the club’s website.
 
 ## References
 _For all reference requests please [contact me](mailto:{{ site.email }}?subject=Reference%20Request) and I can provide you with an up-to-date list of suitable referees_
